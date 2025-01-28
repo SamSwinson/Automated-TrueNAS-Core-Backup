@@ -3,7 +3,7 @@
 Full Blog Post - https://knowledgeaddict.co.uk/2025/01/31/automate-your-home-backup-server-setup-easily/
 
 ## Introduction
-Let's be honest, we all need better processes for our backups. It's the dirty little secret of many people in Information Technology (IT). Some go for the do nothing approach. Some go for the overly complicated approach. I think a healthy balance in between the two can give you enough confidence in your home storage without you feeling like running your home IT is a systems admin job that never ends with no help.
+Let's be honest, we all need better processes for our backups. It's the dirty little secret of many people in IT. Some go for the do nothing approach. Some go for the overly complicated approach. I think a healthy balance in between the two can give you enough confidence in your home storage without you feeling like running your home IT is a systems admin job that never ends with no help.
 
 ### Goal
 The goal I was trying to achieve with my set up is that the backup server will turn on a set few times a month, automatically backup my main NAS server and then power off again. In addition to my main goal, I want visibility into the process so that I can have some assurance the automated process is working and if not then I can get notified.
